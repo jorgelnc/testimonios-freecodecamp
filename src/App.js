@@ -35,7 +35,7 @@ function App() {
           testimonio={<Fragment>I've always struggled with learning JavaScript. 
           Ive taken many courses but freeCodeCamps course was the one which stuck.
           Studying JavaScript as well as data structures and algorithms on <strong>freeCodeCamp
-          gave me the skills</strong>and confidence I needed to land my dream job as a software engineer at Spotify.</Fragment>}/>
+          gave me the skills</strong> and confidence I needed to land my dream job as a software engineer at Spotify.</Fragment>}/>
       </div>
     </div>
   )
